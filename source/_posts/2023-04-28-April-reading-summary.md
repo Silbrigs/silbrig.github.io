@@ -18,7 +18,7 @@ tags:
 ### <font color=ffbd71> -我曾与大海为邻</font> | <font color=717171>王景林</font>
 
 <div align="left">
-    <img src="https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311151449905.png" width="60%" height="60%">
+    <img src="https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311151449905.png" width="60%" height="60%" aligh=left />
 </div>
 
 该书原是小小去年寄来的多本书籍中，最不吸引我的一本，直到我看完到仅剩下这一本书后，我才打开了它。却没想到，在看前言时，就被这本书写作背后的故事所感动——关于一位天性乐观的老人，在老伴离世后患上抑郁症，后在儿女的鼓励下，写下他和大海的故事，并在这个过程中得到自愈。
