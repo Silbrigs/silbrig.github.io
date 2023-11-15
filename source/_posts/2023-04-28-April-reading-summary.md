@@ -17,7 +17,7 @@ tags:
 
 ### <font color=ffbd71> -我曾与大海为邻</font> | <font color=717171>王景林</font>
 
-<div align="left">
+<div text-align="left">
     <img src="https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311151449905.png" width="60%" height="60%">
 </div>
 
