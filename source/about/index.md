@@ -1,14 +1,12 @@
 ---
-title: About Arieslx
+title: About Silbrig
 date: 2022-10-30 17:59:47
 ---
 
 
-My name is LiuS. I use @Arieslx on the web. My role is a Front-End programmer in the community.
+My name is Yichoo. I use @Silbrig on the web. I am a university teacher of design.
 
-Skills:
+Focus:
 
-- React
-- Graphql
-- Nodejs
-- Dev ops
+- Interactive Design
+- Product Design
