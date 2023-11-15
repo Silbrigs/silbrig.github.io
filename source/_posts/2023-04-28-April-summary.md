@@ -7,13 +7,13 @@ tags:
 ---
 
 
-### <font color=ffbd71>- 沙漏做招牌的疗养院</font> | <font color=717171>布鲁诺·舒尔茨</font>
+### **<font color=ffbd71>- 沙漏做招牌的疗养院</font>** | <font color=717171>布鲁诺·舒尔茨</font>
 
 ![沙漏做招聘的疗养院](https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311151425641.png)
 
 第一次读波兰著作，据介绍作者布鲁诺·舒尔茨，仅凭借《沙漏做招牌的疗养院》及《肉桂色铺子及其他故事》两部小说集便囊获波兰“先锋文学三杰”之一的称号。作为小说集，两本书通读下来可以看到许多篇章都在围绕着家庭、父亲及成长的街道展开，故事内容不可说是光怪陆离、奇诡超凡。我想说这不是一本好读的书，许是因为大量的超现实主义手法及隐喻，配合瑰丽语言及层层叠叠的意象，放在中文语境下显得略为晦涩。
 
-### <font color=ffbd71>- 我曾与大海为邻</font> | <font color=717171>王景林</font>
+### <font color=ffbd71>**- 我曾与大海为邻**</font> | <font color=717171>王景林</font>
 
 ![我与大海为邻](https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311151449905.png)
 
@@ -23,7 +23,7 @@ tags:
 
 ### <font color=ffbd71>- 鲸鱼安慰了大海</font> | <font color=717171>燕七</font>
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a939cff-f119-49ee-bcab-bcb4f85ab166/Untitled.png)
+![走到人生边上](https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311151502014.png)
 
 这本书是作为礼物收到的。平日其实极少读诗，没想到读诗的阅读体验可以这么好，过程中倒是给那些个夜晚带来了许多的平静。但也是因为没怎么读过诗，也不懂诗，对燕七的这本诗集也只是觉得很清简，是“简单的诗”。就随文贴上两首吧。
 
@@ -31,7 +31,7 @@ tags:
 
 ### <font color=ffbd71>- 走到人生边上</font> | <font color=717171>杨绛</font>
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d0f271cc-f6db-4f94-a255-8bff054e1b7d/Untitled.png)
+![鲸鱼安慰了大海](https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311151502207.png)
 
 买下这本书的契机，是我当时正处于情绪很低迷的一段时期。偶然看到这本书名，觉得或许我可以读一些站在高维度视角阐述人生，直面生死的书籍，于是立马下单了杨绛的这本《走到人生边上》。如封面还有个副标题，这一自问自答的内容主要集中在本书的前部分，是杨绛关于人生与人性的一些思考感悟，以与自己对话的方式对这些话题展开研讨，其中关于灵魂肉体的思考与辩论占据了很长的篇幅，还算有意思，字里行间甚至透露着一丝可爱；本书后半部分则在讲故事，印象最深的是《她的自述》一篇，絮絮叨叨讲诉自己一生的秀秀，仿佛是一代农村女性的人生缩影。
 
