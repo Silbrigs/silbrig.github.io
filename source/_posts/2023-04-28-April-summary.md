@@ -7,13 +7,13 @@ tags:
 ---
 
 
-### **<font color=ffbd71>- 沙漏做招牌的疗养院</font>** | <font color=717171>布鲁诺·舒尔茨</font>
+## **<font color=ffbd71>- 沙漏做招牌的疗养院</font>** | <font color=717171>布鲁诺·舒尔茨</font>
 
 ![沙漏做招聘的疗养院](https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311151425641.png)
 
 第一次读波兰著作，据介绍作者布鲁诺·舒尔茨，仅凭借《沙漏做招牌的疗养院》及《肉桂色铺子及其他故事》两部小说集便囊获波兰“先锋文学三杰”之一的称号。作为小说集，两本书通读下来可以看到许多篇章都在围绕着家庭、父亲及成长的街道展开，故事内容不可说是光怪陆离、奇诡超凡。我想说这不是一本好读的书，许是因为大量的超现实主义手法及隐喻，配合瑰丽语言及层层叠叠的意象，放在中文语境下显得略为晦涩。
 
-### <font color=ffbd71>**- 我曾与大海为邻**</font> | <font color=717171>王景林</font>
+## <font color=ffbd71>**- 我曾与大海为邻**</font> | <font color=717171>王景林</font>
 
 ![我与大海为邻](https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311151449905.png)
 
@@ -21,15 +21,15 @@ tags:
 
 这是本讲述他人生的书籍。伴海而生，一桩又一桩的渔家旧事，将那粗砺却也鲜活的滨海渔郎生活展示无遗。出于看守鱼铺的原因，作者独自一人临海居住，而前期陪伴他的，只有那些诞生于海、流传于渔民之间的恐怖“海”故事。民间故事总是如此，依托于本土环境而生，很有意思，让我想到小时候，也曾在邻家老人及一些意欲刻意制造“恐怖”来吓我的高年级孩子口中听到了许多“山”故事。说到这，突然意识到我们这一代人其实很少有这样的体验，很多这样的民间口述故事可能也就至此消散了。书中还有着许多有意思的记录，用空海螺钓八爪鱼，用河豚皮做二胡，用带吸盘的鮣鱼吸附大鱼肚皮的习性来钓大鱼。
 
-### <font color=ffbd71>- 鲸鱼安慰了大海</font> | <font color=717171>燕七</font>
+## <font color=ffbd71>- 鲸鱼安慰了大海</font> | <font color=717171>燕七</font>
 
 ![走到人生边上](https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311151502014.png)
 
 这本书是作为礼物收到的。平日其实极少读诗，没想到读诗的阅读体验可以这么好，过程中倒是给那些个夜晚带来了许多的平静。但也是因为没怎么读过诗，也不懂诗，对燕七的这本诗集也只是觉得很清简，是“简单的诗”。就随文贴上两首吧。
 
-![Group 56.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/847eb94a-14eb-48f4-a58c-2983cf2a6501/Group_56.png)
+![](https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311151508758.png)
 
-### <font color=ffbd71>- 走到人生边上</font> | <font color=717171>杨绛</font>
+## <font color=ffbd71>- 走到人生边上</font> | <font color=717171>杨绛</font>
 
 ![鲸鱼安慰了大海](https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311151502207.png)
 
