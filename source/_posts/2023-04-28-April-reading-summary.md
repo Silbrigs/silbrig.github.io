@@ -9,7 +9,7 @@ tags:
 
 ### <font color=ffbd71> -沙漏做招牌的疗养院 </font>| <font color=717171>布鲁诺·舒尔茨</font>
 
-<div align="float:left">
+<div align=left>
     <img src="https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311151425641.png" width="60%" height="60%">
 </div>
 
@@ -17,7 +17,7 @@ tags:
 
 ### <font color=ffbd71> -我曾与大海为邻</font> | <font color=717171>王景林</font>
 
-<div text-align="left">
+<div align="left">
     <img src="https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311151449905.png" width="60%" height="60%">
 </div>
 
