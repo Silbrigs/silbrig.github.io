@@ -25,7 +25,7 @@ tags:
 
 ### <font color=ffbd71> -鲸鱼安慰了大海 </font> | <font color=717171>燕七</font>
 
-<div align="left">
+<div align=left>
     <img src="https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311151502207.png" width="60%" height="60%">
 </div>
 
