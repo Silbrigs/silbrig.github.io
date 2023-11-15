@@ -1,5 +1,5 @@
 ---
-title: 2023.04 | 读书小记
+title: 2023.04|读书小记
 date: 2023-4-28 17:59:59
 tags: 
 - 2023
@@ -7,21 +7,21 @@ tags:
 ---
 
 
-### - 沙漏做招牌的疗养院 | <font color=717171>布鲁诺·舒尔茨</font>
+### <font color=ffbd71>- 沙漏做招牌的疗养院</font> | <font color=717171>布鲁诺·舒尔茨</font>
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/28c0d1e6-3c5f-4fab-8abe-784197cd05ac/Untitled.png)
+![沙漏做招聘的疗养院](https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311151425641.png)
 
 第一次读波兰著作，据介绍作者布鲁诺·舒尔茨，仅凭借《沙漏做招牌的疗养院》及《肉桂色铺子及其他故事》两部小说集便囊获波兰“先锋文学三杰”之一的称号。作为小说集，两本书通读下来可以看到许多篇章都在围绕着家庭、父亲及成长的街道展开，故事内容不可说是光怪陆离、奇诡超凡。我想说这不是一本好读的书，许是因为大量的超现实主义手法及隐喻，配合瑰丽语言及层层叠叠的意象，放在中文语境下显得略为晦涩。
 
-### -  我曾与大海为邻 | <font color=717171>王景林</font>
+### <font color=ffbd71>- 我曾与大海为邻</font> | <font color=717171>王景林</font>
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8dc9e560-f03d-4a97-9f26-8656d7cc0f9b/Untitled.png)
+![我与大海为邻](https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311151449905.png)
 
 该书原是小小去年寄来的多本书籍中，最不吸引我的一本，直到我看完到仅剩下这一本书后，我才打开了它。却没想到，在看前言时，就被这本书写作背后的故事所感动——关于一位天性乐观的老人，在老伴离世后患上抑郁症，后在儿女的鼓励下，写下他和大海的故事，并在这个过程中得到自愈。
 
 这是本讲述他人生的书籍。伴海而生，一桩又一桩的渔家旧事，将那粗砺却也鲜活的滨海渔郎生活展示无遗。出于看守鱼铺的原因，作者独自一人临海居住，而前期陪伴他的，只有那些诞生于海、流传于渔民之间的恐怖“海”故事。民间故事总是如此，依托于本土环境而生，很有意思，让我想到小时候，也曾在邻家老人及一些意欲刻意制造“恐怖”来吓我的高年级孩子口中听到了许多“山”故事。说到这，突然意识到我们这一代人其实很少有这样的体验，很多这样的民间口述故事可能也就至此消散了。书中还有着许多有意思的记录，用空海螺钓八爪鱼，用河豚皮做二胡，用带吸盘的鮣鱼吸附大鱼肚皮的习性来钓大鱼。
 
-### - 鲸鱼安慰了大海 | <font color=717171>燕七<</font>
+### <font color=ffbd71>- 鲸鱼安慰了大海</font> | <font color=717171>燕七</font>
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a939cff-f119-49ee-bcab-bcb4f85ab166/Untitled.png)
 
@@ -29,7 +29,7 @@ tags:
 
 ![Group 56.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/847eb94a-14eb-48f4-a58c-2983cf2a6501/Group_56.png)
 
-### - 走到人生边上 | <font color=717171>杨绛</font>
+### <font color=ffbd71>- 走到人生边上</font> | <font color=717171>杨绛</font>
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d0f271cc-f6db-4f94-a255-8bff054e1b7d/Untitled.png)
 
