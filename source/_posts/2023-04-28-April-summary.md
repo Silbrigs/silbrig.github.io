@@ -7,7 +7,7 @@ tags:
 ---
 
 
-## **<font color=ffbd71>- 沙漏做招牌的疗养院</font>** | <font color=717171>布鲁诺·舒尔茨</font>
+## <font color=ffbd71>**- 沙漏做招牌的疗养院** </font>| <font color=717171>布鲁诺·舒尔茨</font>
 
 ![沙漏做招聘的疗养院](https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311151425641.png)
 
@@ -21,7 +21,7 @@ tags:
 
 这是本讲述他人生的书籍。伴海而生，一桩又一桩的渔家旧事，将那粗砺却也鲜活的滨海渔郎生活展示无遗。出于看守鱼铺的原因，作者独自一人临海居住，而前期陪伴他的，只有那些诞生于海、流传于渔民之间的恐怖“海”故事。民间故事总是如此，依托于本土环境而生，很有意思，让我想到小时候，也曾在邻家老人及一些意欲刻意制造“恐怖”来吓我的高年级孩子口中听到了许多“山”故事。说到这，突然意识到我们这一代人其实很少有这样的体验，很多这样的民间口述故事可能也就至此消散了。书中还有着许多有意思的记录，用空海螺钓八爪鱼，用河豚皮做二胡，用带吸盘的鮣鱼吸附大鱼肚皮的习性来钓大鱼。
 
-## <font color=ffbd71>- 鲸鱼安慰了大海</font> | <font color=717171>燕七</font>
+## <font color=ffbd71>** - 鲸鱼安慰了大海** </font> | <font color=717171>燕七</font>
 
 ![鲸鱼安慰了大海](https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311151502207.png)
 
@@ -29,7 +29,7 @@ tags:
 
 ![诗](https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311151508758.png)
 
-## <font color=ffbd71>- 走到人生边上</font> | <font color=717171>杨绛</font>
+## <font color=ffbd71>** - 走到人生边上** </font> | <font color=717171>杨绛</font>
 
 ![走到人生边上](https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311151502014.png)
 
