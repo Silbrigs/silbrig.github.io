@@ -11,7 +11,9 @@ tags:
 
 ### <font color=ffbd71> -走在人生边上：自问自答 </font>| <font color=717171>杨绛</font>
 
-<img src="https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311171307096.png" width="60%" height="60%" align="left" />
+<div align=left>
+    <img src="https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202311171307096.png" width="60%" height="60%" align="left" />
+</div>
 
 在心情不好的时候，适度从当前的状态中抽离出来，站在一个更高时间跨度上来看待目前遇到的事，能帮助缓解当前的情绪问题，我也正是在这样的情境下看完这本书的。
 
