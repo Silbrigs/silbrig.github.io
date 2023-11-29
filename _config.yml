@@ -99,5 +99,5 @@ theme: cactus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/Silbrigs/silbrigs.github.io.git
+  repository: git@github.com:Silbrigs/silbrigs.github.io.git
   branch: main
