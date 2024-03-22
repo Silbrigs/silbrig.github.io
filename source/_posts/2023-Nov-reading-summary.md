@@ -12,7 +12,7 @@ tags:
 ### <font color=ffbd71> -Educated </font>| <font color=717171>Tara Westover</font> 
 
 <div align=left>
-    <img src="https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202312011432711.png" width="60%" height="60%">
+    <img src="https://silbrig.oss-cn-hangzhou.aliyuncs.com/img/202312011432711.png" width="60%" height="60%" align="left" />
 </div>
 
 终于读完的第一本英文原著，拖拖拉拉，一天只能读个几页。可以想象Tara从出生这样家庭里，到最终能走出来一路该有多难，想到19年在上海的时候，也碰到过一个信奉摩门教的男Dr.， 当时还是第一次听说这个宗教，也听了很多他身上超乎我理解范围外的事迹，当时也只震惊于为何还会有高知人士信奉摩门，也不曾深入了解。直到看了这本书，才觉得极端宗教的可怕之处，再次庆幸Tara可以从这样的家庭里脱离出来。
